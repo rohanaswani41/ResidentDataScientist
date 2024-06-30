@@ -1,0 +1,6 @@
+llama-index
+llama-index-vector-stores-mongodb
+llama-index-embeddings-openai
+pymongo
+datasets
+pandas
