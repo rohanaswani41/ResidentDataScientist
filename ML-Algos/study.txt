@@ -1,0 +1,33 @@
+Things to study
+
+1. All Error metrics
+    classification metrics:
+        MAE = mean absolute error deltaY/n
+        Accuracy = TP+TN/TP+TN+FP+FN
+        R2 = 1 - sum(deltaY)^2/ (y - y_mean)^2
+        Precision = TP/ TP + FP
+        Recall = TP / TP + FN
+        ROC-AUC curve 
+2. All machine learning Algorithms formulas
+    Bayes Theorem
+
+    Linear Regression
+        formula - Y = wX +b
+        error - w = w - alpha*dw, b = b - alpha*db
+    Logistic Regression
+        formula - z = B0 + B1x1 + B2x2, P(y=1|x1,x2) = 1/1+e-(z)
+        loss function = log loss function
+    KNN
+
+    KMeans
+
+3. Spark Technology 
+4. Machine Learning System Design interview
+5. All Evaluation metrics for machine learning models
+6. sklearn syntax
+7. numpy syntax
+8. Latest methodologies of large language models
+    - few shot learning gives instances between 1-5
+9. Transformer architecture
+10. Leet Code 
+11. SQL
