@@ -5,3 +5,5 @@ openai_key.txt
 *.log
 *.aux
 *.tex
+*.csv
+*.txt
